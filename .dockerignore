@@ -7,3 +7,4 @@ test
 k8s-config
 .env
 env.list
+.github
