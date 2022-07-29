@@ -36,3 +36,7 @@ lerna-debug.log*
 
 # env var
 .env
+env.list
+
+#k8s
+/k8s-config

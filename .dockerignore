@@ -3,4 +3,7 @@ Dockerfile
 node_modules
 npm-debug.log
 dist
+test
+k8s-config
 .env
+env.list
